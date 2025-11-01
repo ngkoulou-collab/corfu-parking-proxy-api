@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+requests
+pydantic
+python-dotenv
+geopandas
+shapely
+rtree
+folium
